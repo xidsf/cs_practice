@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BED7EE26-B51C-4089-95C7-878F6AAA83B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Code_Start_and_Reading</RootNamespace>
-    <AssemblyName>Code_Start_and_Reading</AssemblyName>
+    <RootNamespace>_03Code_Start_and_Reading</RootNamespace>
+    <AssemblyName>03Code_Start_and_Reading</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
