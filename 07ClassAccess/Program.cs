@@ -4,6 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*객체지향 프로그래밍에서는
+ * 가장 먼저 해야하는 것은
+ * 내가 RPG뭘 만들고 싶다
+ * class를 선언한다.
+ * class Dragon
+ * {
+ *      int AT; //맴버변수
+ *      int HP;
+ *      //맴버 함수
+ *      void Damage()자신이 공격을 받는다는 개념 즉 드래곤이라는 것의 하위 개념
+ *      {
+ *          HP = HP - 10;   
+ *      }
+*/
 class Player
 {
     //객체지향의 캡슐화 은닉화를 대표하는 문법이
