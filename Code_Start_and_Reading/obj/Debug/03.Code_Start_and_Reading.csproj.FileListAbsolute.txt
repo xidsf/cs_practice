@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\bin\Debug\Code_Start_and_Reading.exe.config
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\bin\Debug\Code_Start_and_Reading.exe
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\bin\Debug\Code_Start_and_Reading.pdb
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\obj\Debug\03.Code_Start_and_Reading.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\obj\Debug\03.Code_Start_and_Reading.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\obj\Debug\Code_Start_and_Reading.exe
+C:\Users\Owner\Desktop\github\UnityST\Code_Start_and_Reading\obj\Debug\Code_Start_and_Reading.pdb
