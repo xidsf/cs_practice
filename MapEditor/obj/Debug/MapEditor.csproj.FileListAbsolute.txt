@@ -1,6 +1,0 @@
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\bin\Debug\MapEditor.exe.config
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\bin\Debug\MapEditor.exe
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\bin\Debug\MapEditor.pdb
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\obj\Debug\MapEditor.exe
-C:\Users\Owner\Desktop\UnityStudy\UnityST\MapEditor\obj\Debug\MapEditor.pdb
