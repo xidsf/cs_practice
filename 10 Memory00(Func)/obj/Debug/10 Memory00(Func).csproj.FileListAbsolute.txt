@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\bin\Debug\10 Memory00(Func).exe.config
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\bin\Debug\10 Memory00(Func).exe
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\bin\Debug\10 Memory00(Func).pdb
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\obj\Debug\10 Memory00(Func).csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\obj\Debug\10 Memory00(Func).csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\obj\Debug\10 Memory00(Func).exe
+C:\Users\skyli\Desktop\github\cs_practice\10 Memory00(Func)\obj\Debug\10 Memory00(Func).pdb
