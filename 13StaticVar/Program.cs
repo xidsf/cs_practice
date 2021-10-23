@@ -35,6 +35,24 @@ class Player
     }
 }
 
+class SidePlayer
+{
+    static public int StNumber;
+    static public int PlayerCount;
+
+    //static이 붙지 않은 맴버변수들은 
+    //맴버변수라고 불리며
+    //이놈들은 객체 하나하나가 
+    //자신의 것을 가진다.
+    public int X = 0;
+    public int Y = 0;
+
+    public void Gravity()
+    {
+        Y -= 200;
+    }
+}
+
 namespace _13StaticVar
 {
     class Program

@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\bin\Debug\24ClassConstructor.exe.config
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\bin\Debug\24ClassConstructor.exe
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\bin\Debug\24ClassConstructor.pdb
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.exe
+C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.pdb
