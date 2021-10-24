@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\github\UnityST\32Array\bin\Debug\32Array.exe.config
+C:\Users\Owner\Desktop\github\UnityST\32Array\bin\Debug\32Array.exe
+C:\Users\Owner\Desktop\github\UnityST\32Array\bin\Debug\32Array.pdb
+C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.exe
+C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.pdb

@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\github\UnityST\26Property\bin\Debug\26Property.exe.config
+C:\Users\Owner\Desktop\github\UnityST\26Property\bin\Debug\26Property.exe
+C:\Users\Owner\Desktop\github\UnityST\26Property\bin\Debug\26Property.pdb
+C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.exe
+C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.pdb
