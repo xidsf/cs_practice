@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31Interface", "31Interface\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32Array", "32Array\32Array.csproj", "{9B495689-B0B4-4F3D-9367-9111773AF347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async", "async\async.csproj", "{677B3F4F-F083-4650-AA25-F9BADE6AC7FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,9 +172,16 @@ Global
 		{9B495689-B0B4-4F3D-9367-9111773AF347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B495689-B0B4-4F3D-9367-9111773AF347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B495689-B0B4-4F3D-9367-9111773AF347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677B3F4F-F083-4650-AA25-F9BADE6AC7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677B3F4F-F083-4650-AA25-F9BADE6AC7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677B3F4F-F083-4650-AA25-F9BADE6AC7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677B3F4F-F083-4650-AA25-F9BADE6AC7FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{677B3F4F-F083-4650-AA25-F9BADE6AC7FA} = {37D911BA-7A11-489D-94F4-EC36193AA93C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E808239C-2A78-490E-B2A5-73329778DC7E}
