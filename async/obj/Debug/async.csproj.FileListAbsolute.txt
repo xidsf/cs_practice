@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\async\bin\Debug\async.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\async\bin\Debug\async.exe
+C:\Users\skyli\Desktop\github\cs_practice\async\bin\Debug\async.pdb
+C:\Users\skyli\Desktop\github\cs_practice\async\obj\Debug\async.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\async\obj\Debug\async.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\async\obj\Debug\async.exe
+C:\Users\skyli\Desktop\github\cs_practice\async\obj\Debug\async.pdb
