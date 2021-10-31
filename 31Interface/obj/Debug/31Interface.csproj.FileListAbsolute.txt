@@ -1,0 +1,6 @@
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\bin\Debug\31Interface.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\bin\Debug\31Interface.exe
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\bin\Debug\31Interface.pdb
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\obj\Debug\31Interface.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\obj\Debug\31Interface.exe
+C:\Users\skyli\Desktop\github\cs_practice\31Interface\obj\Debug\31Interface.pdb

@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.csproj.AssemblyR
 C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.exe
 C:\Users\Owner\Desktop\github\UnityST\32Array\obj\Debug\32Array.pdb
+C:\Users\skyli\Desktop\github\cs_practice\32Array\bin\Debug\32Array.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\32Array\bin\Debug\32Array.exe
+C:\Users\skyli\Desktop\github\cs_practice\32Array\bin\Debug\32Array.pdb
+C:\Users\skyli\Desktop\github\cs_practice\32Array\obj\Debug\32Array.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\32Array\obj\Debug\32Array.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\32Array\obj\Debug\32Array.exe
+C:\Users\skyli\Desktop\github\cs_practice\32Array\obj\Debug\32Array.pdb

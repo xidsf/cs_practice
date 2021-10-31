@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\bin\Debug\28Partial.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\bin\Debug\28Partial.exe
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\bin\Debug\28Partial.pdb
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\obj\Debug\28Partial.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\obj\Debug\28Partial.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\obj\Debug\28Partial.exe
+C:\Users\skyli\Desktop\github\cs_practice\28Partial\obj\Debug\28Partial.pdb

@@ -1,0 +1,1 @@
+C:\Users\skyli\Desktop\github\cs_practice\04MemberVar\obj\Debug\04MemberVar.csproj.CoreCompileInputs.cache

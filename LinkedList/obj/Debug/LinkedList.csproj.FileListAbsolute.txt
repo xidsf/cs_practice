@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\skyli\Desktop\github\cs_practice\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache

@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\08FuncEx\bin\Debug\08FuncEx.exe
 C:\Users\Owner\Desktop\github\UnityST\08FuncEx\bin\Debug\08FuncEx.pdb
 C:\Users\Owner\Desktop\github\UnityST\08FuncEx\obj\Debug\08FuncEx.exe
 C:\Users\Owner\Desktop\github\UnityST\08FuncEx\obj\Debug\08FuncEx.pdb
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\bin\Debug\08FuncEx.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\bin\Debug\08FuncEx.exe
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\bin\Debug\08FuncEx.pdb
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\obj\Debug\08FuncEx.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\obj\Debug\08FuncEx.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\obj\Debug\08FuncEx.exe
+C:\Users\skyli\Desktop\github\cs_practice\08FuncEx\obj\Debug\08FuncEx.pdb

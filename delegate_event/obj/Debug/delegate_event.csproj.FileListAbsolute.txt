@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\bin\Debug\delegate_event.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\bin\Debug\delegate_event.exe
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\bin\Debug\delegate_event.pdb
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\obj\Debug\delegate_event.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\obj\Debug\delegate_event.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\obj\Debug\delegate_event.exe
+C:\Users\skyli\Desktop\github\cs_practice\delegate_event\obj\Debug\delegate_event.pdb

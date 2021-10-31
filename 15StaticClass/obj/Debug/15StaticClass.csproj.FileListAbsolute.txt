@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\15StaticClass\obj\Debug\15StaticClass.cspr
 C:\Users\Owner\Desktop\github\UnityST\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\15StaticClass\obj\Debug\15StaticClass.exe
 C:\Users\Owner\Desktop\github\UnityST\15StaticClass\obj\Debug\15StaticClass.pdb
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\bin\Debug\15StaticClass.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\bin\Debug\15StaticClass.exe
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\bin\Debug\15StaticClass.pdb
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\obj\Debug\15StaticClass.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\obj\Debug\15StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\obj\Debug\15StaticClass.exe
+C:\Users\skyli\Desktop\github\cs_practice\15StaticClass\obj\Debug\15StaticClass.pdb

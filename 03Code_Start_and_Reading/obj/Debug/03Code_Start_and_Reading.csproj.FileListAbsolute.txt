@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\bin\Debug\03Code_Start_and_Reading.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\bin\Debug\03Code_Start_and_Reading.exe
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\bin\Debug\03Code_Start_and_Reading.pdb
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\obj\Debug\03Code_Start_and_Reading.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\obj\Debug\03Code_Start_and_Reading.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\obj\Debug\03Code_Start_and_Reading.exe
+C:\Users\skyli\Desktop\github\cs_practice\03Code_Start_and_Reading\obj\Debug\03Code_Start_and_Reading.pdb

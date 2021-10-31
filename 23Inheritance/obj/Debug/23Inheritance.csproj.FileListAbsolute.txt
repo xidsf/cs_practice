@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\bin\Debug\23Inheritance.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\bin\Debug\23Inheritance.exe
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\bin\Debug\23Inheritance.pdb
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\obj\Debug\23Inheritance.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\obj\Debug\23Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\obj\Debug\23Inheritance.exe
+C:\Users\skyli\Desktop\github\cs_practice\23Inheritance\obj\Debug\23Inheritance.pdb

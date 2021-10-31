@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\List\bin\Debug\List.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\List\bin\Debug\List.exe
+C:\Users\skyli\Desktop\github\cs_practice\List\bin\Debug\List.pdb
+C:\Users\skyli\Desktop\github\cs_practice\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\List\obj\Debug\List.exe
+C:\Users\skyli\Desktop\github\cs_practice\List\obj\Debug\List.pdb

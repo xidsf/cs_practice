@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\bin\Debug\NodeExample.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\bin\Debug\NodeExample.exe
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\bin\Debug\NodeExample.pdb
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\obj\Debug\NodeExample.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\obj\Debug\NodeExample.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\obj\Debug\NodeExample.exe
+C:\Users\skyli\Desktop\github\cs_practice\NodeExample\obj\Debug\NodeExample.pdb

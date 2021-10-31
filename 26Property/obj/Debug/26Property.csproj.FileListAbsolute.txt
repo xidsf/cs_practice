@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.csproj.Ass
 C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.exe
 C:\Users\Owner\Desktop\github\UnityST\26Property\obj\Debug\26Property.pdb
+C:\Users\skyli\Desktop\github\cs_practice\26Property\bin\Debug\26Property.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\26Property\bin\Debug\26Property.exe
+C:\Users\skyli\Desktop\github\cs_practice\26Property\bin\Debug\26Property.pdb
+C:\Users\skyli\Desktop\github\cs_practice\26Property\obj\Debug\26Property.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\26Property\obj\Debug\26Property.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\26Property\obj\Debug\26Property.exe
+C:\Users\skyli\Desktop\github\cs_practice\26Property\obj\Debug\26Property.pdb

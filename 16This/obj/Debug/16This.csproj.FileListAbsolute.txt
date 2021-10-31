@@ -1,0 +1,6 @@
+C:\Users\skyli\Desktop\github\cs_practice\16This\bin\Debug\16This.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\16This\bin\Debug\16This.exe
+C:\Users\skyli\Desktop\github\cs_practice\16This\bin\Debug\16This.pdb
+C:\Users\skyli\Desktop\github\cs_practice\16This\obj\Debug\16This.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\16This\obj\Debug\16This.exe
+C:\Users\skyli\Desktop\github\cs_practice\16This\obj\Debug\16This.pdb

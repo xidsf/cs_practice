@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\ClassAccess\obj\Debug\07ClassAccess.csproj
 C:\Users\Owner\Desktop\github\UnityST\ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\ClassAccess\obj\Debug\ClassAccess.exe
 C:\Users\Owner\Desktop\github\UnityST\ClassAccess\obj\Debug\ClassAccess.pdb
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\bin\Debug\ClassAccess.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\bin\Debug\ClassAccess.exe
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\bin\Debug\ClassAccess.pdb
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\obj\Debug\07ClassAccess.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\obj\Debug\07ClassAccess.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\obj\Debug\ClassAccess.exe
+C:\Users\skyli\Desktop\github\cs_practice\07ClassAccess\obj\Debug\ClassAccess.pdb

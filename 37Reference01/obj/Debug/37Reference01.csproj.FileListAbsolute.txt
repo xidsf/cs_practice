@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\bin\Debug\37Reference01.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\bin\Debug\37Reference01.exe
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\bin\Debug\37Reference01.pdb
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\obj\Debug\37Reference01.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\obj\Debug\37Reference01.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\obj\Debug\37Reference01.exe
+C:\Users\skyli\Desktop\github\cs_practice\37Reference01\obj\Debug\37Reference01.pdb

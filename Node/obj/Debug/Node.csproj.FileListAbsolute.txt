@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\Node\bin\Debug\Node.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\Node\bin\Debug\Node.exe
+C:\Users\skyli\Desktop\github\cs_practice\Node\bin\Debug\Node.pdb
+C:\Users\skyli\Desktop\github\cs_practice\Node\obj\Debug\Node.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\Node\obj\Debug\Node.exe
+C:\Users\skyli\Desktop\github\cs_practice\Node\obj\Debug\Node.pdb

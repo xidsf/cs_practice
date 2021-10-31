@@ -1,0 +1,6 @@
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\bin\Debug\11Memory00(Value).exe.config
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\bin\Debug\11Memory00(Value).exe
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\bin\Debug\11Memory00(Value).pdb
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\obj\Debug\11Memory00(Value).csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\obj\Debug\11Memory00(Value).exe
+C:\Users\skyli\Desktop\github\cs_practice\11Memory00(Value)\obj\Debug\11Memory00(Value).pdb

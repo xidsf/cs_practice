@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\09Operator\obj\Debug\09Operator.csproj.Ass
 C:\Users\Owner\Desktop\github\UnityST\09Operator\obj\Debug\09Operator.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\09Operator\obj\Debug\09Operator.exe
 C:\Users\Owner\Desktop\github\UnityST\09Operator\obj\Debug\09Operator.pdb
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\bin\Debug\09Operator.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\bin\Debug\09Operator.exe
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\bin\Debug\09Operator.pdb
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\obj\Debug\09Operator.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\obj\Debug\09Operator.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\obj\Debug\09Operator.exe
+C:\Users\skyli\Desktop\github\cs_practice\09Operator\obj\Debug\09Operator.pdb

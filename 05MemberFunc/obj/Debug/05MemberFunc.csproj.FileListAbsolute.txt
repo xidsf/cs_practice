@@ -1,0 +1,2 @@
+C:\Users\skyli\Desktop\github\cs_practice\05MemberFunc\obj\Debug\05MemberFunc.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\05MemberFunc\obj\Debug\05MemberFunc.csproj.CoreCompileInputs.cache

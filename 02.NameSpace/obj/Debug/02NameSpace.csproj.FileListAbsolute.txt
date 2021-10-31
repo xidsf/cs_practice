@@ -1,0 +1,2 @@
+C:\Users\skyli\Desktop\github\cs_practice\02.NameSpace\obj\Debug\02NameSpace.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\02.NameSpace\obj\Debug\02NameSpace.csproj.CoreCompileInputs.cache

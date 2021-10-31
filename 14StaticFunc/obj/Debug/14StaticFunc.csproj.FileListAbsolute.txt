@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\bin\Debug\14StaticFunc.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\bin\Debug\14StaticFunc.exe
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\bin\Debug\14StaticFunc.pdb
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\obj\Debug\14StaticFunc.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\obj\Debug\14StaticFunc.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\obj\Debug\14StaticFunc.exe
+C:\Users\skyli\Desktop\github\cs_practice\14StaticFunc\obj\Debug\14StaticFunc.pdb

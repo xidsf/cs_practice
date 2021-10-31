@@ -1,0 +1,2 @@
+C:\Users\skyli\Desktop\github\cs_practice\00.using\obj\Debug\00using.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\00.using\obj\Debug\00using.csproj.CoreCompileInputs.cache

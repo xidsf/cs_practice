@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstr
 C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.exe
 C:\Users\Owner\Desktop\github\UnityST\24ClassConstructor\obj\Debug\24ClassConstructor.pdb
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\bin\Debug\24ClassConstructor.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\bin\Debug\24ClassConstructor.exe
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\bin\Debug\24ClassConstructor.pdb
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\obj\Debug\24ClassConstructor.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\obj\Debug\24ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\obj\Debug\24ClassConstructor.exe
+C:\Users\skyli\Desktop\github\cs_practice\24ClassConstructor\obj\Debug\24ClassConstructor.pdb

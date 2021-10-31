@@ -1,0 +1,6 @@
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\bin\Debug\29OverLoeading.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\bin\Debug\29OverLoeading.exe
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\bin\Debug\29OverLoeading.pdb
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\obj\Debug\29OverLoeading.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\obj\Debug\29OverLoeading.exe
+C:\Users\skyli\Desktop\github\cs_practice\29OverLoeading\obj\Debug\29OverLoeading.pdb

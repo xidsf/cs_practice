@@ -5,3 +5,10 @@ C:\Users\Owner\Desktop\github\UnityST\30OverRiding\obj\Debug\30OverRiding.csproj
 C:\Users\Owner\Desktop\github\UnityST\30OverRiding\obj\Debug\30OverRiding.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\github\UnityST\30OverRiding\obj\Debug\30OverRiding.exe
 C:\Users\Owner\Desktop\github\UnityST\30OverRiding\obj\Debug\30OverRiding.pdb
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\bin\Debug\30OverRiding.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\bin\Debug\30OverRiding.exe
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\bin\Debug\30OverRiding.pdb
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\obj\Debug\30OverRiding.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\obj\Debug\30OverRiding.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\obj\Debug\30OverRiding.exe
+C:\Users\skyli\Desktop\github\cs_practice\30OverRiding\obj\Debug\30OverRiding.pdb

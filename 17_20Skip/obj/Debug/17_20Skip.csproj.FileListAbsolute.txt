@@ -1,0 +1,6 @@
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\bin\Debug\17_20Skip.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\bin\Debug\17_20Skip.exe
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\bin\Debug\17_20Skip.pdb
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\obj\Debug\17_20Skip.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\obj\Debug\17_20Skip.exe
+C:\Users\skyli\Desktop\github\cs_practice\17_20Skip\obj\Debug\17_20Skip.pdb

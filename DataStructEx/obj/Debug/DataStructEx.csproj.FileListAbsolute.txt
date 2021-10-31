@@ -1,0 +1,7 @@
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\bin\Debug\DataStructEx.exe.config
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\bin\Debug\DataStructEx.exe
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\bin\Debug\DataStructEx.pdb
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\obj\Debug\DataStructEx.csproj.AssemblyReference.cache
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\obj\Debug\DataStructEx.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\obj\Debug\DataStructEx.exe
+C:\Users\skyli\Desktop\github\cs_practice\DataStructEx\obj\Debug\DataStructEx.pdb
